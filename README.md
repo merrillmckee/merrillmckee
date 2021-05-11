@@ -18,6 +18,7 @@ https://github.com/merrillmckee/regressionUtilsCpp/blob/master/README.md
 Project
 
 Object detection and tracking in Python using OpenCV and TinyYolov3 trained on the COCO dataset ( neural network weights from https://github.com/pjreddie/darknet/tree/master/cfg )
+
 Video
 
 https://github.com/merrillmckee/openCV_cv1_project4/blob/main/data/videos/soccer_track.mp4
