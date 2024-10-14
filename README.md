@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @merrillmckee https://www.linkedin.com/in/merrillmckee/
 
+### October 2024
+
+I am open to work with a preference for Python development that includes work in computer vision, image processing, machine learning, and statistics. Personal projects to come ... 
+
 ### May 2021
 
 I am interested in software projects in the areas of computer vision, machine learning, and statistics.  You can contact me at merrillmckee at gmail dotcom.  Here are a few I'm working on 
