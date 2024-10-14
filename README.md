@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @merrillmckee https://www.linkedin.com/in/merrillmckee/
 
+### May 2021
+
 I am interested in software projects in the areas of computer vision, machine learning, and statistics.  You can contact me at merrillmckee at gmail dotcom.  Here are a few I'm working on 
 
 Python object detection of NBA players and court features using Yolov5 on custom dataset.  Then I will use these features to transform to a top-down view (coach's whiteboard) of the players and basketball.
