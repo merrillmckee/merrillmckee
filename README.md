@@ -12,7 +12,7 @@ Learning
 - pytorch-raschka-book
 - fastapi-playground
 - scipy-playground
-- scikit-image-playground
+- [scikit-image-playground](https://github.com/merrillmckee/scikit-image-playground)
 
 ### May 2021
 
