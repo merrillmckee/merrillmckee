@@ -5,7 +5,7 @@
 I am open to work with a preference for Python development that includes work in computer vision, image processing, and machine learning.
 
 Personal projects
-- lightning-ai-demonstration
+- [lightning-ai-demonstration](https://github.com/merrillmckee/lightning-ai-demonstration)
 - semantic-segmentation-project
 
 Learning
