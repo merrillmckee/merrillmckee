@@ -2,7 +2,17 @@
 
 ### October 2024
 
-I am open to work with a preference for Python development that includes work in computer vision, image processing, machine learning, and statistics. Personal projects to come ... 
+I am open to work with a preference for Python development that includes work in computer vision, image processing, and machine learning.
+
+Personal projects
+- lightning-ai-demonstration
+- semantic-segmentation-project
+
+Learning
+- pytorch-raschka-book
+- fastapi-playground
+- scipy-playground
+- scikit-image-playground
 
 ### May 2021
 
