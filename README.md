@@ -22,7 +22,7 @@ Python object detection of NBA players and court features using Yolov5 on custom
 
 Project
 
-https://github.com/merrillmckee/nbaPlayerAndFeatureDetection/blob/main/README.md (work-in-progress)
+[NBA Player and Feature Detection](https://github.com/merrillmckee/nbaPlayerAndFeatureDetection/blob/main/README.md)  
 ![image](https://user-images.githubusercontent.com/79757625/117844860-08d06380-b24e-11eb-9b13-911e35c220af.png)
 
 Project
