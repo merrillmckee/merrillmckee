@@ -10,7 +10,7 @@ Personal projects
 
 Learning
 - pytorch-raschka-book
-- fastapi-playground
+- [fastapi-playground](https://github.com/merrillmckee/fastapi-playground)
 - scipy-playground
 - [scikit-image-playground](https://github.com/merrillmckee/scikit-image-playground)
 
