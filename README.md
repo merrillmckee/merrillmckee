@@ -7,6 +7,7 @@ I am open to work with a preference for Python development that includes work in
 Personal projects
 - [lightning-ai-demonstration](https://github.com/merrillmckee/lightning-ai-demonstration)
 - semantic-segmentation-project
+- registering images with SIFT/KAZE keypoints and RANSAC
 
 Python
 - [unit testing with `unittest` and `pytest`](https://github.com/merrillmckee/unit-testing)
