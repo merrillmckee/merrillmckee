@@ -25,7 +25,7 @@ Learning
 - [scikit-image-playground](https://github.com/merrillmckee/scikit-image-playground)
 
 3D
-- 3D point cloud as a numpy npz, ply, and gltf
+- 3D point clouds as a numpy npz, ply, and gltf
   
 GCP
 - TBD
