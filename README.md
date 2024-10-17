@@ -8,9 +8,6 @@ Personal projects
 - [lightning-ai-demonstration](https://github.com/merrillmckee/lightning-ai-demonstration)
 - semantic-segmentation-project
 
-3D
-- 3D point cloud as a numpy npz, ply, and gltf
-
 Python
 - [unit testing with `unittest` and `pytest`](https://github.com/merrillmckee/unit-testing)
 - looping: for loops, list comprehensions, mapping, and numpy vectorization
@@ -27,6 +24,9 @@ Learning
 - scipy-playground
 - [scikit-image-playground](https://github.com/merrillmckee/scikit-image-playground)
 
+3D
+- 3D point cloud as a numpy npz, ply, and gltf
+  
 GCP
 - TBD
 
