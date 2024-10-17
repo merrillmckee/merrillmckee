@@ -12,7 +12,7 @@ Personal projects
 - 3D point cloud as a numpy npz, ply, and gltf
 
 Python
-- unit testing with `unittest` and `pytest`
+- [unit testing with `unittest` and `pytest`](https://github.com/merrillmckee/unit-testing)
 - looping: for loops, list comprehensions, mapping, and numpy vectorization
 - concurrency: `async` and synchronous functions
 - multi-threading and multi-processing
