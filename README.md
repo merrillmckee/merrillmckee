@@ -20,7 +20,7 @@ Python libraries
 - `fastapi` endpoint and Swagger interface
 
 Learning
-- pytorch-raschka-book
+- [fork of code for book `Machine Learning with PyTorch and Scikit-Learn`](https://github.com/merrillmckee/machine-learning-book)
 - [fastapi-playground](https://github.com/merrillmckee/fastapi-playground)
 - scipy-playground
 - [scikit-image-playground](https://github.com/merrillmckee/scikit-image-playground)
