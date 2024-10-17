@@ -15,7 +15,7 @@ Python
 - unit testing with `unittest` and `pytest`
 - looping: for loops, list comprehensions, mapping, and numpy vectorization
 - concurrency: `async` and synchronous functions
-- parallelism: multi-threading and multi-processing
+- multi-threading and multi-processing
 
 Python libraries
 - `numpy` vectorization and broadcasting
