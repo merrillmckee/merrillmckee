@@ -8,11 +8,26 @@ Personal projects
 - [lightning-ai-demonstration](https://github.com/merrillmckee/lightning-ai-demonstration)
 - semantic-segmentation-project
 
+3D
+- 3D point cloud as a numpy npz, ply, and gltf
+
+Python
+- unit testing with `unittest` and `pytest`
+- concurrency: `async` and synchronous functions
+- parallelism: multi-threading and multi-processing
+
+Python libraries
+- `numpy` vectorization and broadcasting
+- `fastapi` endpoint and Swagger interface
+
 Learning
 - pytorch-raschka-book
 - [fastapi-playground](https://github.com/merrillmckee/fastapi-playground)
 - scipy-playground
 - [scikit-image-playground](https://github.com/merrillmckee/scikit-image-playground)
+
+GCP
+- TBD
 
 ### May 2021
 
