@@ -7,6 +7,7 @@ I am open to work with a preference for Python development that includes work in
 Personal projects
 - [lightning-ai-demonstration](https://github.com/merrillmckee/lightning-ai-demonstration)
   - A Jupyter `hello-world` image classification presentation that goes from beginning to end and will even leverage a GPU if available
+  - As simple and concise as I could make it
 - semantic-segmentation-project
 - registering images with SIFT/KAZE keypoints and RANSAC
 
