@@ -31,7 +31,8 @@ Learning
 3D
 - 3D point clouds and meshes as a numpy npz, ply, and gltf
 - Novel 3D wireframes created from 2D imagery using the MiniLab glass container inspection machine
-  - ![image](images/SodaBottle.gif) [beer](images/Miller.gif)
+  - ![image](images/SodaBottle.gif)
+  - ![image](https://github.com/merrillmckee/merrillmckee/blob/main/images/Miller.gif)
   
 GCP
 - TBD
