@@ -47,7 +47,7 @@ Project
 
 Project
 
-C++ least squres regression and consensus utilities for linear, quadratic, cubic, and elliptical models
+C++ least squares regression and consensus utilities for linear, quadratic, cubic, and elliptical models
 https://github.com/merrillmckee/regressionUtilsCpp/blob/master/README.md
 ![image](https://user-images.githubusercontent.com/79757625/117741031-7ab59800-b1cf-11eb-94d4-f7c09c72af83.png)
 
