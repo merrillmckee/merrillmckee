@@ -10,7 +10,7 @@ Personal projects
   - A simple LeNet CNN classifier
   - A mini-ResNet CNN classifier
 - semantic-segmentation-project
-- registering images with SIFT/KAZE keypoints and RANSAC
+- [registering images with SIFT/KAZE keypoints and RANSAC](https://github.com/merrillmckee/feature_matching_with_ransac)
 
 Python
 - [unit testing with `unittest` and `pytest`](https://github.com/merrillmckee/unit-testing)
