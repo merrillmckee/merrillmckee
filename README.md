@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @merrillmckee https://www.linkedin.com/in/merrillmckee/
 
-### October 2024
+### 2024
 
 I am open to work with a preference for Python development that includes work in computer vision, image processing, and machine learning.
 
@@ -37,7 +37,7 @@ Learning
 GCP
 - TBD
 
-### May 2021
+### 2021
 
 Python object detection of NBA players and court features using Yolov5 on custom dataset.  Then I will use these features to transform to a top-down view (coach's whiteboard) of the players and basketball.
 
