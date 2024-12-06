@@ -16,7 +16,7 @@ Personal projects
 Python
 - [unit testing with `unittest` and `pytest`](https://github.com/merrillmckee/unit-testing)
 - [looping: for loops, list comprehensions, mapping, and numpy vectorization](https://github.com/merrillmckee/loops-in-python/blob/main/src/loops-in-python.ipynb)
-- [Concurrency in Python: multi-threading, multi-processing, and asyncio](https://github.com/merrillmckee/multithreading_python)
+- [concurrency in Python: multi-threading, multi-processing, and asyncio](https://github.com/merrillmckee/multithreading_python)
 
 Python libraries
 - `numpy` vectorization and broadcasting
