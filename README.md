@@ -17,7 +17,7 @@ Python
 - [unit testing with `unittest` and `pytest`](https://github.com/merrillmckee/unit-testing)
 - [looping: for loops, list comprehensions, mapping, and numpy vectorization](https://github.com/merrillmckee/loops-in-python/blob/main/src/loops-in-python.ipynb)
 - concurrency: `async` and synchronous functions
-- multi-threading and multi-processing in Python
+- [multi-threading and multi-processing in Python](https://github.com/merrillmckee/multithreading_python)
 
 Python libraries
 - `numpy` vectorization and broadcasting
